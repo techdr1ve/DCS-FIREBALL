@@ -1,5 +1,5 @@
 ## DCS-FIREBALL
-Adds Napalm Fireball effect to MK77 weapon drop, currently only on [A-4E-C Skyhawk](https://github.com/heclak/community-a4e-c) to [DCS World](https://www.digitalcombatsimulator.com/en/products/world/) Simulation.
+Adds Napalm Fireball effect to MK77 weapon drop, currently only on [A-4E-C DCS Plane Mod](https://github.com/heclak/community-a4e-c) to [DCS World](https://www.digitalcombatsimulator.com/en/products/world/) Simulation.
 
 ## Installation: Inject code into Triggers/Actions in Mission Editor
 DO SCRIPT FILE --> MIST.lua
