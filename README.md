@@ -16,5 +16,6 @@ Chose Script Variant Below (3 variants)
 - Med Go, Small Stay --> Flash Med Fireball, Small Fire remains until end of mission
 - Med Stay --> Medium Fireball remains until end of mission
 
-## Application Showcase: (Note: debug was on showing textual output, actual script no textual output only FIRE!)
+## Application Showcase: 
+_Note: debug on w/text output, actual script no text only FIRE!_
 ![image](https://user-images.githubusercontent.com/61528637/193335275-089f4e9f-3703-48ff-a2e6-cc38c1d7a9d5.png)
