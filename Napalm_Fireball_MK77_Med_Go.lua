@@ -1,3 +1,13 @@
+--[[
+    Creates Fireball Effect for MK77-mod0 and MK77-mod1 (Napalm) at impact ground point
+    Script Variant: Med_Go
+    Requirements: MIST Injection, if using dedicated server ... must have A-4 mod added to server files
+    without requiring external mods.
+    See https://github.com/techdr1ve/DCS-FIREBALL for newest version and instruction detail
+	Contributors:
+	    - Dr.No & Dr.Yes - https://github.com/techdr1ve
+ ]]
+
 fireball = {}
 
 --fireball.debugvariables = true -- set to false to disable AI units from being rescued.
