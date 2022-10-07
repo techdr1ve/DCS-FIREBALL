@@ -6,7 +6,9 @@ Adds Napalm Fireball effect to MK77 weapon drop, currently only on [A-4E-C DCS P
 - DO SCRIPT FILE --> Napalm_Fireball_MK77_xxxxxxx.lua
 
 ## REQUIREMENTS
-If using dedicated server, you MUST have A-4 installed on the server in saved games/server_name/Mods/aircraft/ folder.
+If using dedicated server:
+- MUST have A-4 installed on the server in saved games/server_name/Mods/aircraft/ folder.
+- MUST have the SAME A-4 version as the server in order to view the effect.
 
 ## Script Variants
 Chose Script Variant Below (3 variants) 
