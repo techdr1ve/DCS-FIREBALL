@@ -69,7 +69,7 @@ fireball.firestay_mod0_density = 0.75 -- Mk77-Mod0 Fire that stays smoke density
 
 --Mk77 Mod1 (Napalm Firebomb 500lbs) and BIN_200 (Napalm Firebomb 440lbs)
 fireball.fireflash_mod1_intensity = 3 -- Mk77-Mod1 and BIN_200 Fireball flash size (1-4)
-fireball.fireflash_mod1_density = 0.75 -- Mk77-Mod0 and BIN_200 Fireball flash smoke density (0.0 - 1.0)
+fireball.fireflash_mod1_density = 0.75 -- Mk77-Mod1 and BIN_200 Fireball flash smoke density (0.0 - 1.0)
 
 fireball.firestay_mod1 = true --  if set to true then Mk77-Mod1 and BIN_200 fire will stay for the entire mission
 fireball.firestay_mod1_intensity = 1 -- Mk77-Mod1 and BIN_200 Fire that stays size (1-4)
