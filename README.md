@@ -13,7 +13,8 @@ to [DCS World](https://www.digitalcombatsimulator.com/en/products/world/) Simula
 ## REQUIREMENTS
 If using dedicated server:
 - MUST have A-4 installed on the server in saved games/server_name/Mods/aircraft/ folder.
-- MUST have the SAME A-4 version client-side as server-side in order to view the effect.
+- MUST have the SAME A-4 version client-side as server-side in order to view the effect for Mk-77 Mod0 and Mod1.
+- Note: If you do not want dependancy on A-4 mod aircraft, just use BIN_200 DCS native napalm bomb
 
 To add Mk77 Mod0 & Mod1 to other airplane mods:
 - Only edit the main .lua file (ex; ```VSN_F100.lua```) inside (ex; ```Saved Games\DCS.openbeta\Mods\aircraft\VSN_F100```)
@@ -21,6 +22,8 @@ To add Mk77 Mod0 & Mod1 to other airplane mods:
   - ex1; ```{CLSID = "{mk77mod0}" , arg_value = 0.0},```
   - ex2; ```{CLSID = "{mk77mod0}"},``` 
   - ex3; ```{CLSID = "{mk77mod1}"},```
+  - ex4; ```{CLSID = "BIN_200", arg_value = 0.1, required = {{station = 6,loadout = {"BIN_200"}}} },    -- BIN-200 ```
+    - Note: you must declare required station otherwise weapon will not be added, useful for dual loadouts, if not, put current pylon
 - Do not add TER2 variant, more complex to get to work: 
   - ```{ CLSID = "{Mk-77 mod 1_TER_2_"..side.."}" },```  
   ... if you can get it to work LET ME KNOW & I'll add it in!
