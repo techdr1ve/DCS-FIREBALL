@@ -1,5 +1,6 @@
 ## DCS-FIREBALL
-Adds Napalm Fireball effect to MK77 weapon drop, currently only on [A-4E-C DCS Plane Mod](https://github.com/heclak/community-a4e-c) to [DCS World](https://www.digitalcombatsimulator.com/en/products/world/) Simulation.
+Adds Napalm Fireball effect to MK77 weapon drop, currently only on [A-4E-C DCS Plane Mod](https://github.com/heclak/community-a4e-c) 
+to [DCS World](https://www.digitalcombatsimulator.com/en/products/world/) Simulation.
 Update: 10/17/22 ::  Confirmed working, Add Mk77 Mod0 & Mod1 to F-4, F-105, F-104, F-100, A-6E from A-4E-C 
 
 ## Installation: Inject code into Triggers/Actions in Mission Editor
@@ -14,7 +15,8 @@ If using dedicated server:
 To add Mk77 Mod0 & Mod1 to other airplane mods:
 - Only edit the main .lua file (ex; VSN_F100.lua)
 - Add compatible line: ex1; {CLSID = "{mk77mod0}" , arg_value = 0.0},  ex2; {CLSID = "{mk77mod0}"}, ex3; {CLSID = "{mk77mod1}"}
-- Do not add TER2 variant, more complex to get to work: { CLSID = "{Mk-77 mod 1_TER_2_"..side.."}" },  ... if you can get it to work LET ME KNOW & I'll add it in!
+- Do not add TER2 variant, more complex to get to work: { CLSID = "{Mk-77 mod 1_TER_2_"..side.."}" },  
+  ... if you can get it to work LET ME KNOW & I'll add it in!
 
 If using Mk77 on Other airplane mods:
 - MUST have A-4 installed on the server in saved games/server_name/Mods/aircraft/ folder in order for Mk77 Mod0 & Mod1 to work.
@@ -32,7 +34,8 @@ Configure Fireball Napalm for Mk77 mod0, mod1 and RN-24,RN-28 for Nuke Smoke
 
 **1 Script, Configuration Galore**
 -- Settings based on https://wiki.hoggitworld.com/view/DCS_func_effectSmokeBig 
--- Number Options: 4 Huge Fire + Smoke, 3 Large Fire + Smoke, 2 Medium Fire + Smoke, 1 Small Fire + Smoke ... 8 Huge Smoke, 7 Large Smoke, 6 Medium Smoke, 5 Small Smoke
+-- Number Options: 4 Huge Fire + Smoke, 3 Large Fire + Smoke, 2 Medium Fire + Smoke, 1 Small Fire + Smoke 
+   ... 8 Huge Smoke, 7 Large Smoke, 6 Medium Smoke, 5 Small Smoke
 -- Firebomb Details: Mk77 Mod0 --> 750 lbs, 110 U.S. gallons  ... Mk77 Mod1 --> 500 lbs, 75 U.S. gallons
 
 --Mk77 Mod0 (Napalm Firebomb 750lbs)
