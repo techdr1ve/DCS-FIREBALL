@@ -38,12 +38,12 @@ fireball.firestay_mod0_intensity = 1 -- Mk77-Mod0 Fire that stays size (1-4)
 fireball.firestay_mod0_density = 0.75 -- Mk77-Mod0 Fire that stays smoke density (0.0 - 1.0)
 
 --Mk77 Mod1 (Napalm Firebomb 500lbs)
-fireball.fireflash_mod1_intensity = 3 -- Mk77-Mod1 and BIN_200 Fireball flash size (1-4)
-fireball.fireflash_mod1_density = 0.75 -- Mk77-Mod1 and BIN_200 Fireball flash smoke density (0.0 - 1.0)
+fireball.fireflash_mod1_bin_200_intensity = 3 -- Mk77-Mod1 and BIN_200 Fireball flash size (1-4)
+fireball.fireflash_mod1_bin_200_density = 0.75 -- Mk77-Mod1 and BIN_200 Fireball flash smoke density (0.0 - 1.0)
 
-fireball.firestay_mod1 = true --  if set to true then mod1 and BIN_200 fire will stay for the entire mission
-fireball.firestay_mod1_intensity = 1 -- Mk77-Mod1 and BIN_200 Fire that stays size (1-4)
-fireball.firestay_mod1_density = 0.75 -- Mk77-Mod1 and BIN_200 Fire that stays smoke density (0.0 - 1.0)
+fireball.firestay_mod1_bin_200 = true --  if set to true then mod1 and BIN_200 fire will stay for the entire mission
+fireball.firestay_mod1_bin_200_intensity = 1 -- Mk77-Mod1 and BIN_200 Fire that stays size (1-4)
+fireball.firestay_mod1_bin_200_density = 0.75 -- Mk77-Mod1 and BIN_200 Fire that stays smoke density (0.0 - 1.0)
 
 --RN-28 or RN-24 (Nuclear Bombs)
 fireball.nukesmoke_on = true -- if set to true then additional smoke effects will appear upon impact of RN-28 or RN-24
@@ -207,10 +207,10 @@ function fireball.eventHandler:onEvent(_event)
             --unique_name = math.random(1,1000)
             function fireball_start()
 
-                trigger.action.effectSmokeBig(ImpactPoint2, fireball.fireflash_mod1_intensity, fireball.fireflash_mod1_density, 'mod1_bin_200-id')
+                trigger.action.effectSmokeBig(ImpactPoint2, fireball.fireflash_mod1_bin_200_intensity, fireball.fireflash_mod1_bin_200_density, 'mod1_bin_200-id')
 
-                if fireball.firestay_mod1 then
-                    trigger.action.effectSmokeBig(ImpactPoint, fireball.firestay_mod1_intensity, fireball.firestay_mod1_density, 'mod1_bin_200_fire_stay')
+                if fireball.firestay_mod1_bin_200 then
+                    trigger.action.effectSmokeBig(ImpactPoint, fireball.firestay_mod1_bin_200_intensity, fireball.firestay_mod1_bin_200_density, 'mod1_bin_200_fire_stay')
                 end
 
                 trigger.action.effectSmokeStop('mod1_bin_200-id')
