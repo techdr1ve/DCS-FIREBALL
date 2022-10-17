@@ -1,7 +1,10 @@
 ## DCS-FIREBALL
 Adds Napalm Fireball effect to MK77 weapon drop, currently only on [A-4E-C DCS Plane Mod](https://github.com/heclak/community-a4e-c) 
 to [DCS World](https://www.digitalcombatsimulator.com/en/products/world/) Simulation.
-- Update: 10/17/22 :: Confirmed working, Add Mk77 Mod0 & Mod1 in F-4, F-105, F-104, F-100, A-6E from A-4E-C 
+- Update: 10/17/22 :: Confirmed Working: 
+  - Added Mk77 Mod0 & Mod1 in F-4, F-105, F-104, F-100, A-6E from A-4E-C
+  - Get these modded airframses from: [VSN Mods-Century Series](https://filehorst.de/folder.php?key=duuqITUb)
+  - Added BIN200 to everything attached to MK77 Mod1 from C101 Aviojet as well
 
 ## Installation: Inject code into Triggers/Actions in Mission Editor
 - DO SCRIPT FILE --> MIST.lua
@@ -53,6 +56,7 @@ Configure Fireball Napalm for Mk77 mod0, mod1 and RN-24, RN-28 for Nuke Smoke
 - Firebomb Details:
   - Mk77 Mod0 --> 750 lbs, 110 U.S. gallons
   - Mk77 Mod1 --> 500 lbs, 75 U.S. gallons
+  - BIN_200 --> 440lbs, ~70 U.S. gallons
 
 ```
 --Mk77 Mod0 (Napalm Firebomb 750lbs)
@@ -63,13 +67,13 @@ fireball.firestay_mod0 = true --  if set to true then mod0 fire will stay for th
 fireball.firestay_mod0_intensity = 1 -- Mk77-Mod0 Fire that stays size (1-4)
 fireball.firestay_mod0_density = 0.75 -- Mk77-Mod0 Fire that stays smoke density (0.0 - 1.0)
 
---Mk77 Mod1 (Napalm Firebomb 500lbs)
-fireball.fireflash_mod1_intensity = 3 -- Mk77-Mod1 Fireball flash size (1-4)
-fireball.fireflash_mod1_density = 0.75 -- Mk77-Mod0 Fireball flash smoke density (0.0 - 1.0)
+--Mk77 Mod1 (Napalm Firebomb 500lbs) and BIN_200 (Napalm Firebomb 440lbs)
+fireball.fireflash_mod1_intensity = 3 -- Mk77-Mod1 and BIN_200 Fireball flash size (1-4)
+fireball.fireflash_mod1_density = 0.75 -- Mk77-Mod0 and BIN_200 Fireball flash smoke density (0.0 - 1.0)
 
-fireball.firestay_mod1 = true --  if set to true then mod1 fire will stay for the entire mission
-fireball.firestay_mod1_intensity = 1 -- Mk77-Mod1 Fire that stays size (1-4)
-fireball.firestay_mod1_density = 0.75 -- Mk77-Mod1 Fire that stays smoke density (0.0 - 1.0)
+fireball.firestay_mod1 = true --  if set to true then Mk77-Mod1 and BIN_200 fire will stay for the entire mission
+fireball.firestay_mod1_intensity = 1 -- Mk77-Mod1 and BIN_200 Fire that stays size (1-4)
+fireball.firestay_mod1_density = 0.75 -- Mk77-Mod1 and BIN_200 Fire that stays smoke density (0.0 - 1.0)
 
 --RN-28 or RN-24 (Nuclear Bombs)
 fireball.nukesmoke_on = true -- if set to true then additional smoke effects will appear upon impact of RN-28 or RN-24
