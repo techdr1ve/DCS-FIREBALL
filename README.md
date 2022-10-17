@@ -6,6 +6,10 @@ to [DCS World](https://www.digitalcombatsimulator.com/en/products/world/) Simula
   - Get these modded airframses from: [VSN Mods-Century Series](https://filehorst.de/folder.php?key=duuqITUb)
   - Added BIN200 to everything attached to MK77 Mod1 from C101 Aviojet as well
 
+## Application Showcase: FIREBALL
+_Note: debug on w/text output, actual script no text only FIRE!_
+![image](https://user-images.githubusercontent.com/61528637/193335275-089f4e9f-3703-48ff-a2e6-cc38c1d7a9d5.png)
+
 ## Installation: Inject code into Triggers/Actions in Mission Editor
 - DO SCRIPT FILE --> MIST.lua
 - DO SCRIPT FILE --> Napalm_Fireball_MK77_xxxxxxx.lua
@@ -81,6 +85,3 @@ fireball.firestay_mod1_density = 0.75 -- Mk77-Mod1 and BIN_200 Fire that stays s
 --RN-28 or RN-24 (Nuclear Bombs)
 fireball.nukesmoke_on = true -- if set to true then additional smoke effects will appear upon impact of RN-28 or RN-24
 ```
-## Application Showcase: 
-_Note: debug on w/text output, actual script no text only FIRE!_
-![image](https://user-images.githubusercontent.com/61528637/193335275-089f4e9f-3703-48ff-a2e6-cc38c1d7a9d5.png)
