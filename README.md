@@ -1,6 +1,6 @@
 ## DCS-FIREBALL
 Adds Napalm Fireball effect to MK77 weapon drop using Mk77 Mod0 & Mod1 from [A-4E-C DCS Plane Mod](https://github.com/heclak/community-a4e-c) 
-to [DCS World](https://www.digitalcombatsimulator.com/en/products/world/) Simulation and BIN_100 from C101 Aviojet.
+to [DCS World](https://www.digitalcombatsimulator.com/en/products/world/) Simulation and BIN_200 from C101 Aviojet.
 - Update: 10/17/22 :: Confirmed Working: 
   - Added Mk77 Mod0 & Mod1 in F-4, F-105, F-104, F-100, A-6E from A-4E-C
   - Get these modded airframses from: [VSN Mods-Century Series](https://filehorst.de/folder.php?key=duuqITUb)
