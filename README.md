@@ -4,7 +4,7 @@ to [DCS World](https://www.digitalcombatsimulator.com/en/products/world/) Simula
 - Update: 10/17/22 :: Confirmed Working: 
   - Added Mk77 Mod0 & Mod1 in F-4, F-105, F-104, F-100, A-6E from A-4E-C
   - Get these modded airframses from: [VSN Mods-Century Series](https://filehorst.de/folder.php?key=duuqITUb)
-  - Added BIN200 to everything attached to MK77 Mod1 from C101 Aviojet as well
+  - Added BIN_200 to every airframe above in addition to OV-10A Bronco, CH-53 Sea Stallion from C101 Aviojet as well
 
 ## Application Showcase: FIREBALL
 _Note: debug on w/text output, actual script no text only FIRE!_
