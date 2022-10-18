@@ -35,14 +35,6 @@ To add Mk77 Mod0 & Mod1 to other airplane mods:
 If using Mk77 on Other airplane mods:
 - MUST have A-4 installed on the server in saved games/server_name/Mods/aircraft/ folder in order for Mk77 Mod0 & Mod1 to work.
 
-## Script Variants
-Chose Script Variant Below (3 variants) 
-
-**3 Different Variants** -- Update: 10/17/22 This has been archived and instructions be depricated in next update
-- Med Go --> Flash Fireball, then goes away
-- Med Go, Small Stay --> Flash Med Fireball, Small Fire remains until end of mission
-- Med Stay --> Medium Fireball remains until end of mission
-
 ## Script Configuration Setup
 Configure Fireball Napalm for Mk77 mod0, mod1 and RN-24, RN-28 for Nuke Smoke
 
