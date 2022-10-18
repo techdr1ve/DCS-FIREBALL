@@ -12,7 +12,7 @@ _Note: debug on w/text output, actual script no text only FIRE!_
 
 ## Installation: Inject code into Triggers/Actions in Mission Editor
 - DO SCRIPT FILE --> MIST.lua
-- DO SCRIPT FILE --> Napalm_Fireball_MK77_xxxxxxx.lua
+- DO SCRIPT FILE --> Napalm_Fireball.lua
 
 ## REQUIREMENTS
 If using dedicated server:
