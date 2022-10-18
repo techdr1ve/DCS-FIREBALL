@@ -85,3 +85,11 @@ fireball.firestay_mod1_density = 0.75 -- Mk77-Mod1 and BIN_200 Fire that stays s
 --RN-28 or RN-24 (Nuclear Bombs)
 fireball.nukesmoke_on = true -- if set to true then additional smoke effects will appear upon impact of RN-28 or RN-24
 ```
+## Contributors:
+    - Dr.No & Dr.Yes - Developing Scripts - https://github.com/techdr1ve
+    - plusnine / callmepartario - Assisting with coordinating and getting A-4 team to accept mod and helping get resources - A-4 Discord, Github
+    - JNelson - Assisting with CP741.cpp computer drop code from A-4 files helped resolve the impact calculation and delay time - A-4 Discord
+    - Ghosti - Connecting dots on getting Napalm Mk-77 added to other airframes than A-4 - DCS Liberation Discord & A-4 Discord
+    - PeeJott - Positive developer assisting the proliferation of changes to VSN mod plane files - Century Series
+    - Gregory - Adding Napalm BIN_200 to his OV-10A and helping me debug and resolve issues - Split Air Discord
+    - WheelyJoe - Hopefully he will add Napalm weapons for better accuracy; Mk-77 Mod0, Mod1 and BIN_200 to his Weapons_Damage_Updated.lua - DCS Liberation Discord
