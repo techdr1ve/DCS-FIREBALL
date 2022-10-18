@@ -89,7 +89,7 @@ fireball.nukesmoke_on = true -- if set to true then additional smoke effects wil
 - Dr.No & Dr.Yes - Developing Scripts - https://github.com/techdr1ve
 - plusnine / callmepartario - Assisting with coordinating A-4 team & helping get resources - A-4 Discord, Github
 - JNelson - Assisting with CP741.cpp computer drop code from A-4 files helped resolve impact calculation & delay time - A-4 Discord
-- Ghosti - Connecting dots on getting Napalm Mk-77 added to other airframes than A-4 - DCS Liberation Discord & A-4 Discord
+- Ghosti - Assisting on Napalm Mk-77, BIN_200 added to other airframes than A-4 - DCS Liberation Discord & A-4 Discord
 - PeeJott - Positive developer assisting the proliferation of changes to VSN mod plane files - Century Series
 - Gregory - Adding Napalm BIN_200 to his OV-10A and helping me debug and resolve issues - Split Air Discord
 - WheelyJoe - Hopefully he will add Napalm weapons for better accuracy; Mk-77 Mod0, Mod1 and BIN_200 to his Weapons_Damage_Updated.lua - DCS Liberation Discord
