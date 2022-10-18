@@ -5,7 +5,6 @@ to [DCS World](https://www.digitalcombatsimulator.com/en/products/world/) Simula
   - Mk-77 Mod0, Mod1 require A-4 mod install for weapons to appear in game
   - Airframes added Mk-77 Mod0, Mod1 & BIN_200: A-6E, F-4, F-100, F-104, F-105, Mirage III, Tornado 
   - Airframes added BIN_200 Only: OV-10A, CH-53
-  - Added 'modified_aircraft_files_addednapalm' folder with link to download airframe mod & modded airframe file adding napalm weapons
   - BIN_200 from C101 Aviojet recognized native to DCS; no dependencies needed
 
 ## Application Showcase: FIREBALL
