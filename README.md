@@ -35,14 +35,6 @@ To add Mk77 Mod0 & Mod1 to other airplane mods:
 If using Mk77 on Other airplane mods:
 - MUST have A-4 installed on the server in saved games/server_name/Mods/aircraft/ folder in order for Mk77 Mod0 & Mod1 to work.
 
-## Script Variants
-Chose Script Variant Below (3 variants) 
-
-**3 Different Variants** -- Update: 10/17/22 This has been archived and instructions be depricated in next update
-- Med Go --> Flash Fireball, then goes away
-- Med Go, Small Stay --> Flash Med Fireball, Small Fire remains until end of mission
-- Med Stay --> Medium Fireball remains until end of mission
-
 ## Script Configuration Setup
 Configure Fireball Napalm for Mk77 mod0, mod1 and RN-24, RN-28 for Nuke Smoke
 
@@ -85,3 +77,11 @@ fireball.firestay_mod1_density = 0.75 -- Mk77-Mod1 and BIN_200 Fire that stays s
 --RN-28 or RN-24 (Nuclear Bombs)
 fireball.nukesmoke_on = true -- if set to true then additional smoke effects will appear upon impact of RN-28 or RN-24
 ```
+## Contributors:
+- Dr.No & Dr.Yes - Developing Scripts - https://github.com/techdr1ve
+- plusnine / callmepartario - Assisting with coordinating A-4 team & helping get resources - A-4 Discord, Github
+- JNelson - Assisting with CP741.cpp computer drop code from A-4 files helped resolve impact calculation & delay time - A-4 Discord
+- Ghosti - Assisting on Napalm Mk-77, BIN_200 added to other airframes than A-4 - DCS Liberation Discord & A-4 Discord
+- PeeJott - Positive developer assisting the proliferation of changes to VSN mod plane files - Century Series
+- Gregory - Adding Napalm BIN_200 to his OV-10A and helping me debug and resolve issues - Split Air Discord
+- WheelyJoe - Hopefully he will add Napalm weapons for more realistic area affected accuracy; Mk-77 Mod0, Mod1 and BIN_200 to his Weapons_Damage_Updated.lua - DCS Liberation Discord
