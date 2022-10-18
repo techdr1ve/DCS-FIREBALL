@@ -330,8 +330,7 @@ OV10A =  {
 
 				{ CLSID = "{00F5DAC4-0466-4122-998F-B1A298E34113}" },   -- MK-117
 				
-        			{ CLSID = "{mk77mod0}" },                               -- Mk-77mod0 750 lb petroleum oil bomb
-        			{ CLSID = "{mk77mod1}" },                               -- Mk-77mod1 500 lb petroleum oil bomb
+
 				{ CLSID = "BIN_200", arg_value = 0.1, required = {{station = 6,loadout = {"BIN_200"}}} },	-- BIN-200
 
 				--Rocket
@@ -362,8 +361,7 @@ OV10A =  {
 				{ CLSID = "{7A44FF09-527C-4B7E-B42B-3F111CFE50FB}" },   -- MK-83
 
 				{ CLSID = "{00F5DAC4-0466-4122-998F-B1A298E34113}" },   -- MK-117
-	        		{ CLSID = "{mk77mod0}", arg_value = 0.0 },                               -- Mk-77mod0 750 lb petroleum oil bomb
-        			{ CLSID = "{mk77mod1}", arg_value = 0.0 },                               -- Mk-77mod1 500 lb petroleum oil bomb
+
 				{ CLSID = "BIN_200", arg_value = 0.1, required = {{station = 5,loadout = {"BIN_200"}}} },	-- BIN-200
 								
 				--Rocket
@@ -398,8 +396,7 @@ OV10A =  {
 
 				{ CLSID = "{00F5DAC4-0466-4122-998F-B1A298E34113}" },   -- MK-117
 
-        			{ CLSID = "{mk77mod0}" },                               -- Mk-77mod0 750 lb petroleum oil bomb
-        			{ CLSID = "{mk77mod1}" },                               -- Mk-77mod1 500 lb petroleum oil bomb
+
 				{ CLSID = "BIN_200", arg_value = 0.1, required = {{station = 4,loadout = {"BIN_200"}}} },	-- BIN-200
 
 			}
@@ -421,8 +418,7 @@ OV10A =  {
 
 				{ CLSID = "{00F5DAC4-0466-4122-998F-B1A298E34113}" },   -- MK-117
 
-        			{ CLSID = "{mk77mod0}", arg_value = 0.0 },                               -- Mk-77mod0 750 lb petroleum oil bomb
-        			{ CLSID = "{mk77mod1}", arg_value = 0.0 },                               -- Mk-77mod1 500 lb petroleum oil bomb
+
 				{ CLSID = "BIN_200", arg_value = 0.1, required = {{station = 3,loadout = {"BIN_200"}}} },	-- BIN-200
 
 				--Rocket
@@ -454,8 +450,7 @@ OV10A =  {
 
 				{ CLSID = "{00F5DAC4-0466-4122-998F-B1A298E34113}" },   -- MK-117
 
-        			{ CLSID = "{mk77mod0}", arg_value = 0.0 },                               -- Mk-77mod0 750 lb petroleum oil bomb
-        			{ CLSID = "{mk77mod1}", arg_value = 0.0 },                               -- Mk-77mod1 500 lb petroleum oil bomb
+
 				{ CLSID = "BIN_200", arg_value = 0.1, required = {{station = 2,loadout = {"BIN_200"}}} },	-- BIN-200
 
 				--Rocket
