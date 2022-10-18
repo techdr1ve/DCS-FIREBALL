@@ -12,7 +12,9 @@ _Note: debug on w/text output, actual script no text only FIRE!_
 
 ## Installation: Inject code into Triggers/Actions in Mission Editor
 - DO SCRIPT FILE --> MIST.lua
+  - Link: https://github.com/mrSkortch/MissionScriptingTools/releases
 - DO SCRIPT FILE --> Napalm_Fireball.lua
+  - Link: https://github.com/techdr1ve/DCS-FIREBALL/releases
 
 ## REQUIREMENTS
 If using dedicated server:
