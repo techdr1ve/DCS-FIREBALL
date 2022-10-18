@@ -13,7 +13,13 @@
     Details: See https://github.com/techdr1ve/DCS-FIREBALL for a instructions on installation and the latest version
 
 	Contributors:
-	    - Dr.No & Dr.Yes - https://github.com/techdr1ve
+	    - Dr.No & Dr.Yes - Developing Scripts - https://github.com/techdr1ve
+        - plusnine / callmepartario - Assisting with coordinating and getting A-4 team to accept mod and helping get resources - A-4 Discord, Github
+        - JNelson - Assisting with CP741.cpp computer drop code from A-4 files helped resolve the impact calculation and delay time - A-4 Discord
+        - Ghosti - Connecting dots on getting Napalm Mk-77 added to other airframes than A-4 - DCS Liberation Discord & A-4 Discord
+        - PeeJott - Positive developer assisting the proliferation of changes to VSN mod plane files - Century Series
+        - Gregory - Adding Napalm BIN_200 to his OV-10A and helping me debug and resolve issues - Split Air Discord
+        - WheelyJoe - Hopefully he will add Napalm weapons for better accuracy; Mk-77 Mod0, Mod1 and BIN_200 to his Weapons_Damage_Updated.lua - DCS Liberation Discord
 
     Version: 1.0.0 - 09/30/2022
       - Initial Working Script with 3 versions 
