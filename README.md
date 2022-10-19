@@ -1,10 +1,21 @@
 ## DCS-FIREBALL
-Adds Napalm Fireball effect to MK77 weapon drop using Mk77 Mod0 & Mod1 from [A-4E-C DCS Plane Mod](https://github.com/heclak/community-a4e-c) 
+- Summary: Adds Napalm Fireball effect to MK77 weapon drop using Mk77 Mod0 & Mod1 from [A-4E-C DCS Plane Mod](https://github.com/heclak/community-a4e-c) 
 to [DCS World](https://www.digitalcombatsimulator.com/en/products/world/) Simulation and BIN_200 from C101 Aviojet.
-- Update: 10/18/22 :: Confirmed Working: 
+- Notice: Only DCS mod airframes are added and not actual DCS modules.
+- Statement: As horrible as Napalm is in real life, just as Nuclear Weapons are, they do have a place within DCS with all their effects
+- Purpose: This script is to showcase the interest of interest and viability of the fireball effects of Napalm as a weapon in DCS.
+- Goal: To influence ED & 3rd Party Devs of the importance of adding Napalm effects and the Vietnam Terrain Map to DCS.
+- Update: 10/18/22 :: Confirmed Working ::: All airframes added have at least 1 historical article stating use of Napalm, thereby added.
   - Mk-77 Mod0, Mod1 require A-4 mod install for weapons to appear in game
-  - Airframes added Mk-77 Mod0, Mod1 & BIN_200: A-6E, F-4, F-100, F-104, F-105, Mirage III, Tornado, SEM
-  - Airframes added BIN_200 Only: OV-10A, CH-53, A-29B, IA-58 
+  - Airframes added Mk-77 Mod0, Mod1 & BIN_200: 
+    - [VSN Mods: F-4, F-80, F-100, F-104, F-105, Mirage III, Tornado, SEM](https://filehorst.de/folder.php?key=duuqITUb)
+    - [A-6E](https://www.digitalcombatsimulator.com/en/products/world/)
+  - Airframes added BIN_200 Only: 
+    - [OV-10A Bronco](https://splitair.gumroad.com/l/fwzxn)
+    - [CH-53 Sea Stallion](https://www.digitalcombatsimulator.com/en/files/3316599/ )
+    - [A-29B Super Tucano](https://github.com/luizrenault/a-29b-community/releases)
+    - [IA-58 Pucara](https://github.com/PucaraPastrana/PucaraDCS/releases)
+    - [C-130 Hercules](https://www.mediafire.com/file/8uak6lar9hyswfs/Hercules_ver_6.8.1.zip/file)
   - BIN_200 from C101 Aviojet recognized native to DCS; no dependencies needed
 
 ## Application Showcase: FIREBALL
