@@ -7,6 +7,7 @@ to [DCS World](https://www.digitalcombatsimulator.com/en/products/world/) Simula
 - Goal: Influence ED & 3rd Party Devs the importance of adding Napalm effects and the Vietnam Terrain Map to DCS.
 - Update: 10/18/22 :: Confirmed Working ::: All airframes added have at least 1 historical article stating use of Napalm, thereby added.
   - Mk-77 Mod0, Mod1 require A-4 mod install for weapons to appear in game
+  - BIN_200 from C101 Aviojet recognized native to DCS; no dependencies needed
   - Airframes added Mk-77 Mod0, Mod1 & BIN_200: 
     - [VSN Mods: F-4, F-80, F-100, F-104, F-105, Mirage III, Tornado, SEM](https://filehorst.de/folder.php?key=duuqITUb)
     - [A-6E](https://www.digitalcombatsimulator.com/en/products/world/)
@@ -16,7 +17,6 @@ to [DCS World](https://www.digitalcombatsimulator.com/en/products/world/) Simula
     - [A-29B Super Tucano](https://github.com/luizrenault/a-29b-community/releases)
     - [IA-58 Pucara](https://github.com/PucaraPastrana/PucaraDCS/releases)
     - [C-130 Hercules](https://www.mediafire.com/file/8uak6lar9hyswfs/Hercules_ver_6.8.1.zip/file)
-  - BIN_200 from C101 Aviojet recognized native to DCS; no dependencies needed
 
 ## Application Showcase: FIREBALL
 _Note: debug on w/text output, actual script no text only FIRE!_
