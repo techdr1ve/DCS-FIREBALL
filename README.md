@@ -3,7 +3,7 @@
 to [DCS World](https://www.digitalcombatsimulator.com/en/products/world/) Simulation and BIN_200 from C101 Aviojet.
 - Notice: Only DCS mod airframes are added and not actual DCS modules.
 - Statement: As horrible as Napalm is in real life, just as Nuclear Weapons are, they do have a place within DCS with all their effects
-- Purpose: This script is to showcase the interest of interest and viability of the fireball effects of Napalm as a weapon in DCS.
+- Purpose: This script is to showcase the interest and viability of the fireball effects of Napalm as a weapon in DCS.
 - Goal: To influence ED & 3rd Party Devs of the importance of adding Napalm effects and the Vietnam Terrain Map to DCS.
 - Update: 10/18/22 :: Confirmed Working ::: All airframes added have at least 1 historical article stating use of Napalm, thereby added.
   - Mk-77 Mod0, Mod1 require A-4 mod install for weapons to appear in game
