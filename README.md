@@ -3,7 +3,7 @@ Adds Napalm Fireball effect to MK77 weapon drop using Mk77 Mod0 & Mod1 from [A-4
 to [DCS World](https://www.digitalcombatsimulator.com/en/products/world/) Simulation and BIN_200 from C101 Aviojet.
 - Update: 10/18/22 :: Confirmed Working: 
   - Mk-77 Mod0, Mod1 require A-4 mod install for weapons to appear in game
-  - Airframes added Mk-77 Mod0, Mod1 & BIN_200: A-6E, F-4, F-100, F-104, F-105, Mirage III, Tornado 
+  - Airframes added Mk-77 Mod0, Mod1 & BIN_200: A-6E, F-4, F-100, F-104, F-105, Mirage III, Tornado, SEM, A-29B, IA-58 
   - Airframes added BIN_200 Only: OV-10A, CH-53
   - BIN_200 from C101 Aviojet recognized native to DCS; no dependencies needed
 
