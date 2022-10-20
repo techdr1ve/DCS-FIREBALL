@@ -9,7 +9,7 @@ to [DCS World](https://www.digitalcombatsimulator.com/en/products/world/) Simula
   - Mk-77 Mod0, Mod1 require A-4 mod install for weapons to appear in game
   - BIN_200 from C101 Aviojet recognized native to DCS; no dependencies needed
   - Airframes added Mk-77 Mod0, Mod1 & BIN_200: 
-    - [VSN Mods: F-4, F-80, F-100, F-104, F-105, Mirage III, Tornado, SEM](https://filehorst.de/folder.php?key=duuqITUb)
+    - [VSN Mods: F-4, F-80, F-84, F-100, F-104, F-105, Mirage III, Tornado, SEM](https://filehorst.de/folder.php?key=duuqITUb)
     - [A-6E](https://www.digitalcombatsimulator.com/en/products/world/)
   - Airframes added BIN_200 Only: 
     - [OV-10A Bronco](https://splitair.gumroad.com/l/fwzxn)
