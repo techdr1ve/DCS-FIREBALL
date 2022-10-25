@@ -16,7 +16,6 @@ to [DCS World](https://www.digitalcombatsimulator.com/en/products/world/) Simula
     - [CH-53 Sea Stallion](https://www.digitalcombatsimulator.com/en/files/3316599/ )
     - [A-29B Super Tucano](https://github.com/luizrenault/a-29b-community/releases)
     - [IA-58 Pucara](https://github.com/PucaraPastrana/PucaraDCS/releases)
-    - [C-130 Hercules](https://www.mediafire.com/file/8uak6lar9hyswfs/Hercules_ver_6.8.1.zip/file)
 
 ## Application Showcase: FIREBALL
 _Note: debug on w/text output, actual script no text only FIRE!_
