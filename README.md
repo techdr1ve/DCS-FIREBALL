@@ -16,7 +16,6 @@ to [DCS World](https://www.digitalcombatsimulator.com/en/products/world/) Simula
     - [CH-53 Sea Stallion](https://www.digitalcombatsimulator.com/en/files/3316599/ )
     - [A-29B Super Tucano](https://github.com/luizrenault/a-29b-community/releases)
     - [IA-58 Pucara](https://github.com/PucaraPastrana/PucaraDCS/releases)
-    - [C-130 Hercules](https://www.mediafire.com/file/8uak6lar9hyswfs/Hercules_ver_6.8.1.zip/file)
 
 ## Application Showcase: FIREBALL
 _Note: debug on w/text output, actual script no text only FIRE!_
@@ -96,7 +95,13 @@ fireball.nukesmoke_on = true -- if set to true then additional smoke effects wil
 - plusnine / callmepartario - Developer assisting with coordinating A-4 team & helping get resources - A-4 Discord, Github
 - JNelson - Assisting with CP741.cpp computer drop code from A-4 files helped resolve impact calculation & delay time - A-4 Discord
 - Ghosti - Assisting on Napalm Mk-77, BIN_200 added to other airframes than A-4 - DCS Liberation Discord & A-4 Discord
-- PeeJott - Developer assisting the proliferation of changes to VSN mod plane files - Century Series
+- PeeJott - Developer assisting the proliferation of changes to VSN mod plane files - Century Series Discord
 - Dikennek - Developer Adding Napalm BIN_200 to his OV-10A script. - Split Air Discord
 - Gregory - Helping me debug Napalm BIN_200 to get this weapon to work on the OV-10A and resolve issues - Split Air Discord
-- WheelyJoe - Hopefully he will add Napalm weapons for more realistic area affected accuracy; Mk-77 Mod0, Mod1 and BIN_200 to his Weapons_Damage_Updated.lua - DCS Liberation Discord
+- GLOBAL HAWK - Assisting an enormous number of test flights aiding in working out the bugs - Century Series Discord
+- WheelyJoe - DCS Liberation Discord
+  - Hopefully he will add Napalm weapons for more realistic area affected accuracy; Mk-77 Mod0, Mod1 and BIN_200 to his Weapons_Damage_Updated.lua
+  - Allowing this script to use an updated version of impact script to make impact location much more accurate 
+- CC / No Callsign - First video media footage of showcasing this fireball script on youtube: - A-4 Discord
+  - A-4: https://www.youtube.com/watch?v=kQ0LyunFNlc 
+  - OV-10A: https://www.youtube.com/watch?v=rL7OJW-Mi4o&t=71s 
