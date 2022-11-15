@@ -1,5 +1,4 @@
-## DCS-FIREBALL
-- (Clipped from full CC / No Callsign Media: https://www.youtube.com/watch?v=kQ0LyunFNlc )
+# DCS-FIREBALL
  ![test](https://user-images.githubusercontent.com/61528637/201845271-b1b6e067-5ff6-43f1-97bc-df2bddc30049.gif)
 ## Summary: 
 - Adds Napalm Fireball effect to MK77 weapon drop using Mk77 Mod0 & Mod1 from [A-4E-C DCS Plane Mod](https://github.com/heclak/community-a4e-c) 
@@ -106,5 +105,5 @@ fireball.nukesmoke_on = true -- if set to true then additional smoke effects wil
   - Hopefully he will add Napalm weapons for more realistic area affected accuracy; Mk-77 Mod0, Mod1 and BIN_200 to his Weapons_Damage_Updated.lua
   - Allowing this script to use an updated version of impact script to make impact location much more accurate 
 - CC / No Callsign - First video media footage of showcasing this fireball script on youtube: - A-4 Discord
-  - A-4: https://www.youtube.com/watch?v=kQ0LyunFNlc 
+  - A-4: https://www.youtube.com/watch?v=kQ0LyunFNlc  --> +credit for clipped .gif shot at the top of this repo
   - OV-10A: https://www.youtube.com/watch?v=rL7OJW-Mi4o&t=71s 
