@@ -1,5 +1,8 @@
 ## DCS-FIREBALL
-- Summary: Adds Napalm Fireball effect to MK77 weapon drop using Mk77 Mod0 & Mod1 from [A-4E-C DCS Plane Mod](https://github.com/heclak/community-a4e-c) 
+- (Clipped from full CC / No Callsign Media: https://www.youtube.com/watch?v=kQ0LyunFNlc )
+ ![test](https://user-images.githubusercontent.com/61528637/201845271-b1b6e067-5ff6-43f1-97bc-df2bddc30049.gif)
+## Summary: 
+- Adds Napalm Fireball effect to MK77 weapon drop using Mk77 Mod0 & Mod1 from [A-4E-C DCS Plane Mod](https://github.com/heclak/community-a4e-c) 
 to [DCS World](https://www.digitalcombatsimulator.com/en/products/world/) Simulation and BIN_200 from C101 Aviojet.
 - Notice: Only DCS mod airframes are added and not actual DCS modules.
 - Statement: As horrible as Napalm is in real life, just as Nuclear Weapons are, they do have a place within DCS with all their effects
